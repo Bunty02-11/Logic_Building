@@ -8,5 +8,5 @@ function isDivisibleBy3and5(nums) {
     }
 }
 
-console.log(isDivisibleBy5(15))
-console.log(isDivisibleBy5(2))
+console.log(isDivisibleBy3and5(15))
+console.log(isDivisibleBy3and5(2))
